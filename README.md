@@ -166,9 +166,9 @@ Select the appropriate camera model in `board_config.h`:
    - Get bot token
 
 2. **Get Chat ID**:
-   - Message your bot
-   - Visit: `https://api.telegram.org/bot<TOKEN>/getUpdates`
-   - Extract chat_id from response
+   - Message @ChatIdInfoBot bot
+   - Send `/start`
+   - Copy your chat id
 
 ### **Imagga API Setup**
 1. **Sign Up**: Visit [Imagga.com](https://imagga.com/)
